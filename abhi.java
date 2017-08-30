@@ -4,6 +4,6 @@ class abhi
 	{
 		int ab=5,hi=45;
 		System.out.println("Addition:"+(ab+7));
-		System.out.println("mi nahi");
+		System.out.println("mi ahe");
 	}
 }
